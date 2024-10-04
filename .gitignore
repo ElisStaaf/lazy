@@ -1,0 +1,3 @@
+*?.* # Prerelease
+*&test=true* # Test
+*@ignore* # General purpose ignoring
