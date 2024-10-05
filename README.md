@@ -1,5 +1,6 @@
 # lazy - A C module for lazy people
 Lazy is a module for everyone lazy! It's the hero in shining pyjamas!
+Includes all of the functions i don't want to write twice!
 
 Requirements
 -------
