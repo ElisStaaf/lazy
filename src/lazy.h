@@ -10,4 +10,5 @@ int osSystem(char cmd[]);
 int osRead(char filename[], char mode[]);
 int osWriteTo(char msg[], char filename[]);
 int osListDir(char dir="pwd");
+int split(char* a_str, const char a_delim):
 #endif
